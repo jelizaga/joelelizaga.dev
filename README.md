@@ -1,2 +1,4 @@
 # joelelizaga.dev
-Landing page for web dev box.
+Singular landing page for my web dev box.
+
+No dependencies required.
